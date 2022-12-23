@@ -1,4 +1,4 @@
-create database abhisekLabDB;
+create database PrithulaDB;
 use abhisekLabDB;
 create table Employee
 (Employee_id int(6),
