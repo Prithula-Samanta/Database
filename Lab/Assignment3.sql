@@ -1,5 +1,5 @@
 create database PrithulaDB;
-use abhisekLabDB;
+use PrithulaDB;
 create table Employee
 (Employee_id int(6),
 Last_name varchar(25),
